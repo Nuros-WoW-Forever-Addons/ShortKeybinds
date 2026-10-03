@@ -1,0 +1,10 @@
+## Interface: 16001, 11200, 30300, 110000
+## Title: ShortKeybinds
+## Notes: Shortens keybind text on default action bars (e.g. Num Pad 1 -> N1, SHIFT-Num Pad 1 -> S-N1).
+## Author: Antigravity
+## Version: 1.0.0
+## IconTexture: Interface\Icons\INV_Misc_Key_04
+## SavedVariables: ShortKeybindsDB
+
+Core.lua
+OptionsUI.lua
